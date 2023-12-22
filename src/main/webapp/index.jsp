@@ -5,8 +5,12 @@
   <title>JSP - Hello World</title>
 </head>
 <body>
-<h1><%= "Hello World!" %></h1>
-<br/>
-<a href="hello-servlet">Hello Servlet</a>
+<h1><%= "Recuperación Exámen ud2!" %></h1>
+
+<br>
+  <a href="listadoPedidos.jsp">Listado Pedidos (Delete)</a>
+  <br>
+  <a href="listadoClientes.jsp">Listado Clientes (Delete y listado detallado)</a>
+
 </body>
 </html>
