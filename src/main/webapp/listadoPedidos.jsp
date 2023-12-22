@@ -11,6 +11,7 @@
 </head>
 <body>
 <a href="index.jsp">Volver atrás</a>
+<a href="formNuevoPedido.jsp">Crear nuevo Pedido</a>
 
 <%
     Class.forName("com.mysql.cj.jdbc.Driver");
